@@ -1,2 +1,3 @@
 # legen_data_analysis
-Lactobacillus Evolutionary Genomics Data Analysis
+
+This repo has been moved to [lacto_species](https://github.com/SWittouck/lacto_species). 
